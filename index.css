@@ -1,0 +1,17 @@
+.redes-sociais>li.pink:not(.red) a {
+    color: pink;
+}
+
+.redes-sociais>li.pink.red a {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+}
+
+ul{
+    list-style: none;
+}
